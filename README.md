@@ -43,9 +43,6 @@ This is a C# banking application with an integrated admin panel for managing pro
 - **Windows Forms (WinForms)** (for the user interface)
 - **Visual Studio Code** (as the development environment)
 
-## License
-This project is licensed under the MIT License.
-
 ## Contact
 For any inquiries, reach out to **chuminmaksim@gmail.com**.
 
