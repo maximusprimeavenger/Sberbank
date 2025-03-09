@@ -24,7 +24,6 @@ This is a C# banking application with an integrated admin panel for managing pro
 1. Clone the repository:
    ```sh
    git clone https://github.com/maximusprimeavenger/Sberbank.git
-   cd Sberbank
    ```
 2. Configure the database connection string in DataBase.cs file in Sberbank directory:
   ![Photo Database sql](Sberbank/images/Sql.png)
